@@ -5,6 +5,8 @@ This is the Database.h file that contains the prototype methods for search() and
 
 Helps with organization of the program, I believe
 
+This is to test if Git is really working with this cloned repo
+
 */
 
 #ifndef _DATABASE_
